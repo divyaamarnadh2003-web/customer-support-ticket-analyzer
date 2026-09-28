@@ -1,0 +1,15 @@
+ticket_id,created_at,resolved_at,status,priority,category,issue_type,channel,customer_type,assigned_agent,description
+TKT1001,2026-09-01 09:15,2026-09-01 14:30,Resolved,High,Technical,Login Issue,Email,Premium,Agent_01,Customer unable to log in
+TKT1002,2026-09-01 10:20,2026-09-02 09:10,Resolved,Medium,Billing,Payment Failure,Phone,Standard,Agent_02,Payment failed during checkout
+TKT1003,2026-09-01 11:45,,Open,High,Technical,Server Error,Chat,Premium,Agent_03,Application showing server error
+TKT1004,2026-09-02 08:30,2026-09-02 12:45,Resolved,Low,Account,Profile Update,Email,Standard,Agent_01,Customer requested profile update
+TKT1005,2026-09-02 13:10,2026-09-03 16:20,Resolved,High,Technical,Password Reset,Chat,Premium,Agent_04,Customer forgot account password
+TKT1006,2026-09-03 09:00,,Open,Medium,Billing,Refund Request,Email,Standard,Agent_02,Customer requesting refund
+TKT1007,2026-09-03 14:25,2026-09-03 17:40,Resolved,High,Technical,Login Issue,Chat,Premium,Agent_03,Unable to access account
+TKT1008,2026-09-04 10:15,2026-09-05 15:30,Resolved,Medium,Delivery,Delayed Delivery,Phone,Standard,Agent_05,Order has not arrived
+TKT1009,2026-09-04 16:40,,Open,High,Technical,Server Error,Email,Premium,Agent_04,Website unavailable for customer
+TKT1010,2026-09-05 09:50,2026-09-05 11:25,Resolved,Low,Account,Email Change,Email,Standard,Agent_01,Customer requested email address change
+TKT1011,2026-09-05 12:30,2026-09-05 16:45,Resolved,Medium,,Password Reset,Email,Standard,Agent_02,Customer requested password reset
+TKT1012,INVALID_DATE,2026-09-06 10:30,Resolved,Low,Account,Profile Update,Email,Standard,Agent_01,Customer requested profile update
+,2026-09-06 11:00,2026-09-06 13:00,Resolved,High,Technical,Server Error,Chat,Premium,Agent_03,Server error reported
+TKT1014,2026-09-06 14:20,INVALID_DATE,Resolved,High,Technical,Login Issue,Email,Premium,Agent_04,Customer unable to access account

@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Generated files
+data/processed_tickets.csv
+reports/summary_report.txt
